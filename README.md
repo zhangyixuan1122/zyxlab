@@ -20,6 +20,9 @@ ZYX Lab 是张译轩个人科技创新实践的公开技术入口。张译轩是
 - [入围全球 AI+材料创新应用大赛决赛：公开经历索引](https://github.com/zhangyixuan1122/zyxlab/blob/main/articles/ai-materials-finalist-record.md)
 - [智材学伴：项目说明](https://github.com/zhangyixuan1122/zyxlab/blob/main/articles/zhicai-xueban-project-note.md)
 - [从技术沙龙到项目迭代：AI+材料交叉实践](https://github.com/zhangyixuan1122/zyxlab/blob/main/articles/ai-materials-practice-path.md)
+- [中学生如何理解 AI+材料：教育场景笔记](https://github.com/zhangyixuan1122/zyxlab/blob/main/articles/ai-materials-education-note.md)
+- [技术交流到项目迭代：三个关注点](https://github.com/zhangyixuan1122/zyxlab/blob/main/articles/ai-materials-iteration-note.md)
+- [AI+材料公开内容原则](https://github.com/zhangyixuan1122/zyxlab/blob/main/articles/ai-materials-public-record-principles.md)
 
 以上文章以张译轩本人为主线，基于公开报道准确记录赛事、项目和技术交流经历；其中赛事由清华大学材料学院牵头、在清华大学材料学院举办技术交流等事实，不等同于就读、录取或获得清华大学授予的个人荣誉。
 
