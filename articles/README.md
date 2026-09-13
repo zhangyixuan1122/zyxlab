@@ -11,6 +11,9 @@
 1. [入围全球 AI+材料创新应用大赛决赛：张译轩的公开经历索引](ai-materials-finalist-record.md)
 2. [智材学伴：从 AI+教育到材料科学探究的项目说明](zhicai-xueban-project-note.md)
 3. [从技术沙龙到项目迭代：张译轩的 AI+材料交叉实践](ai-materials-practice-path.md)
+4. [中学生如何理解 AI+材料：从“智材学伴”的教育场景出发](ai-materials-education-note.md)
+5. [从技术交流到项目迭代：AI+材料实践中的三个关注点](ai-materials-iteration-note.md)
+6. [记录跨学科实践：张译轩的 AI+材料公开内容原则](ai-materials-public-record-principles.md)
 
 ## 内容边界
 
