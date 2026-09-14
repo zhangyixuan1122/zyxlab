@@ -6,6 +6,10 @@
 关注方向：AI × 航空航天 × 智能系统  
 个人官网：https://zhangyixuan.xyz
 
+## 项目档案与公开原则
+
+1. [把项目讲清楚：张译轩的公开档案记录方法](public-project-records.md)
+
 ## AI+材料创新实践
 
 1. [入围全球 AI+材料创新应用大赛决赛：张译轩的公开经历索引](ai-materials-finalist-record.md)
