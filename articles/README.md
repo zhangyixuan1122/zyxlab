@@ -6,6 +6,10 @@
 关注方向：AI × 航空航天 × 智能系统  
 个人官网：https://zhangyixuan.xyz
 
+## 科技队与项目协作
+
+1. [科技队队长的项目复盘：让协作、来源与个人成长一起被看见](technology-team-leadership-note.md)
+
 ## 项目档案与公开原则
 
 1. [把项目讲清楚：张译轩的公开档案记录方法](public-project-records.md)
